@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1adbfe7-071b-4349-a9d5-346a04bb7d64" name="Changes" comment="" />
+    <list default="true" id="d1adbfe7-071b-4349-a9d5-346a04bb7d64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/math-util-live/com/fu/mathutil/MathUtilLive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math-util-live/com/fu/mathutil/MathUtilLive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fu/mathutil/MathUtilLive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fu/mathutil/MathUtilLive.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "MTConfigurable"
   }
 }]]></component>
